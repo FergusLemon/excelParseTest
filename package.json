@@ -1,0 +1,14 @@
+{
+ "name": "testapp",
+ "version": "0.0.1",
+ "description": "Test App",
+ "main": "server.js",
+ "author": {
+  "name": "Your Name",
+  "email": "Your Email"
+ },
+ "dependencies": {
+  "express": "^4.17.1",
+  "mongodb": "^3.2.7"
+ }
+}
